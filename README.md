@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Ghayoor ul Haq, and I develop applications for web and mobile. I'm freelancer with experience of about 3+ year. Love to explore and learn new technologies.
+
+### Stats 📊
+![Ghayoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhayoorUlHaq&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhayoorUlHaq&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GhayoorUlHaq/GhayoorUlHaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
