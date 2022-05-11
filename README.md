@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ghayoor ul Haq, and I develop applications for web and mobile. I'm freelancer with experience of about 3+ years. Open to explore and learn new technologies.
+My name is Ghayoor ul Haq, and I develop applications for web and mobile. I'm a freelancer with experience of about 3+ years. Open to explore and learn new technologies.
 
 ### Stats 📊
 ![Ghayoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhayoorUlHaq&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_title=true)
